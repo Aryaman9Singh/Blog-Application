@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=selfproject/C:\/Users\/ARYAMASI\/.m2\/repository\/org\/hibernate\/orm\/hibernate-core\/6.4.1.Final\/hibernate-core-6.4.1.Final.jar=/maven.pomderived=/true=/=/maven.groupId=/org.hibernate.orm=/=/maven.artifactId=/hibernate-core=/=/maven.version=/6.4.1.Final=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.hibernate.dialect(MySQL8Dialect.class[MySQL8Dialect" modifiers="1048609" timestamp="1708433375433"/>
+    <typeInfo handle="=selfproject/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.selfproject.services{UserService.java[UserService" modifiers="513" timestamp="1709294662110"/>
+    <typeInfo handle="=selfproject/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.selfproject.services{CategoryService.java[CategoryService" modifiers="513" timestamp="1714988786511"/>
+    <typeInfo handle="=selfproject/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.selfproject.services{PostService.java[PostService" modifiers="513" timestamp="1715606186395"/>
+</typeInfoHistroy>
